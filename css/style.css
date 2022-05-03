@@ -156,6 +156,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	text-transform: uppercase;
 	color: #fff;
 	background-color: #d83827;
+	/*background-color: #d83827;*/
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
